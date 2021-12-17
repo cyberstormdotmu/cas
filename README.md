@@ -27,6 +27,7 @@ bundle exec jekyll serve
 Navigate to http://localhost:4000 to see the local site.
 
 ## Site Structure
+
 The documentation site is composed of the following blocks:
 
 - Each version of the documentation is moved to an appropriately named folder (i.e. `4.0.0`)
